@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # coding: utf-8
-'''
-Author: Rakesh Ranjan, Deepanshu
-E-mail: rakesh.ranjan@vaaaninfra.com
-'''
+"""
+Author: Rakesh Ranjan
+E-mail: 
+"""
 
 # # O(1) - Constant Time
 
